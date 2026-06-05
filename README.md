@@ -79,11 +79,9 @@ Este desarrollo utiliza exclusivamente comunicación por hardware local mediante
 
 ## 📸 Evidencia de Funcionamiento
 
-```
-Dato recibido -> Tiempo: 743010ms, ADC: 3673, V: 2.96V
-Dato recibido -> Tiempo: 744010ms, ADC: 3662, V: 2.95V
-DEBUG: Enviando a la web -> {'muestras': 374, 'estado': 'ALTO', 'promedio': 1.77, 'max': 3.3}
-```
+
+![Panel](imagen_2026-06-05_123524929.png)
+
 
 ### 📊 Gráficas Generadas (Análisis de Señal)
 
