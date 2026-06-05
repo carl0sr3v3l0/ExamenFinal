@@ -87,6 +87,6 @@ DEBUG: Enviando a la web -> {'muestras': 374, 'estado': 'ALTO', 'promedio': 1.77
 
 ### 📊 Gráficas Generadas (Análisis de Señal)
 
-!(static/plots/histograma.png)
-!(static/plots/promedio_movil.png)
-!(static/plots/sensor_tiempo.png)
+![Gráfica1](static/plots/histograma.png)
+![Gráfica2](static/plots/promedio_movil.png)
+![Gráfica3](static/plots/sensor_tiempo.png)
